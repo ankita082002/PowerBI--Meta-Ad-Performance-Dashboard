@@ -6,6 +6,14 @@ Dataset source: **Maven Analytics**
 
 The project demonstrates my ability to transform raw data into meaningful insights using Excel and Power BI.
 
+## 📸 Dashboard Preview
+
+### 🔵 Facebook Ad Performance Dashboard
+![Facebook Dashboard](Screenshot%202025-11-09%20205828.png)
+
+### 🟣 Instagram Ad Performance Dashboard
+![Instagram Dashboard](Screenshot%202025-11-09%20205810.png)
+
 ---
 
 ## 🧰 Tools & Techniques Used
