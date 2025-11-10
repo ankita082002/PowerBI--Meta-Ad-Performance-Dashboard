@@ -43,6 +43,5 @@ Both pages include **clickable page navigation buttons** for an interactive expe
 
 ## 🧑‍💻 Author
 **Ankita Basu**  
-Data Analyst | Power BI Enthusiast  
 🔗 [LinkedIn](https://www.linkedin.com/) 
 [GitHub](https://github.com/)
