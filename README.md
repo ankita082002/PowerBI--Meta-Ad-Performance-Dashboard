@@ -2,7 +2,7 @@
 
 ## 🔍 Project Overview
 This Power BI dashboard analyzes ad performance data from **Meta (Facebook & Instagram)** to uncover insights into audience behavior, campaign efficiency, and engagement trends.  
-Dataset source: **Maven Analytics**
+Dataset source: **Kaggle**
 
 The project demonstrates my ability to transform raw data into meaningful insights using Excel and Power BI.
 
